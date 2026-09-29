@@ -100,15 +100,15 @@ This project was created to practice and improve:
 ## 👨‍💻 Author
 
 **Anil Kumar Yadav**
+iOS Developer | Swift | UIKit
 
-iOS Developer | Swift | UIKit | SwiftUI | Firebase | REST APIs | MVVM
+If you like this project, ⭐ **star the repository** and feel free to share your feedback!
 
-* GitHub: https://github.com/anilyadavjnt
-* LinkedIn: https://linkedin.com/in/anilyadavjnt
+Anil Yadav ( iOS Developer )
 
-## ⭐ Support
-
-If you find this project useful, consider giving it a ⭐ on GitHub.
+* LinkedIn: www.linkedin.com/in/anilyadavjnt
+* Portfolio: https://portfolio-anilyadavjnt.vercel.app
+* Email: anilyadavjnt@gmail.com
 
 
 
