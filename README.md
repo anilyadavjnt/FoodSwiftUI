@@ -1,3 +1,111 @@
+# 🏨 HotelBookingApp iOS
+
+HotelBookingApp is a modern iOS application designed to provide a smooth and user-friendly hotel booking experience.
+
+The app allows users to explore hotels, view hotel details, search for available options, and go through a simple booking flow.
+
+## 📱 Features
+
+* 🏨 Hotel listing
+* 🔍 Hotel search
+* 📍 Hotel location/details
+* ⭐ Hotel ratings and reviews
+* 🖼️ Hotel images
+* 💰 Room/booking information
+* 📅 Booking flow
+* 👤 User-friendly interface
+* 📱 Responsive iOS UI
+* 🎨 Clean and modern design
+
+## 🛠️ Technologies Used
+
+* **Swift**
+* **UIKit**
+* **Storyboard / XIB**
+* **Auto Layout**
+* **UITableView**
+* **UICollectionView**
+* **MVC Architecture**
+* **REST API / JSON** *(if applicable)*
+* **Git & GitHub**
+* **Xcode**
+
+## 🏗️ Architecture
+
+The project follows a structured iOS architecture to keep the code organized and maintainable.
+
+```text
+HotelBookingApp
+│
+├── Models
+├── Views
+├── ViewControllers
+├── Cells
+├── Services
+├── Resources
+└── Assets
+```
+
+## 🚀 Getting Started
+
+### Requirements
+
+* macOS
+* Xcode
+* iOS Simulator or physical iPhone
+* Swift
+
+### Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/anilyadavjnt/HotelBookingApp-iOS.git
+```
+
+2. Open the project in Xcode.
+
+3. Select an iOS Simulator or connected iPhone.
+
+4. Build and run the application.
+
+## 📸 Screenshots
+
+Add your application screenshots here:
+
+```text
+Home Screen
+Hotel Listing
+Hotel Details
+Booking Screen
+```
+
+## 🎯 What I Learned
+
+While developing this project, I worked on:
+
+* Building iOS interfaces using UIKit
+* Designing reusable UI components
+* Working with UITableView and UICollectionView
+* Auto Layout and responsive UI
+* Navigation between screens
+* Managing application data
+* Structuring an iOS application
+* Debugging and improving UI issues
+* Using Git and GitHub for version control
+
+## 👨‍💻 Developer
+
+**Anil Kumar Yadav**
+
+iOS Developer | Swift | UIKit | REST API | Firebase | MVVM
+
+* LinkedIn: https://linkedin.com/in/anilyadavjnt
+* GitHub: https://github.com/anilyadavjnt
+
+## ⭐ Support
+
+If you find this project useful, consider giving it a ⭐ on GitHub.
 
 
 
