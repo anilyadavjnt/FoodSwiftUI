@@ -1,49 +1,54 @@
-# 🏨 HotelBookingApp iOS
+# 🍔 FoodSwiftUI – Food Delivery iOS App
 
-HotelBookingApp is a modern iOS application designed to provide a smooth and user-friendly hotel booking experience.
-
-The app allows users to explore hotels, view hotel details, search for available options, and go through a simple booking flow.
+FoodSwiftUI is a modern **Food Delivery iOS application** built using **SwiftUI**. The project focuses on creating a clean, responsive, and user-friendly food ordering experience with reusable SwiftUI components.
 
 ## 📱 Features
 
-* 🏨 Hotel listing
-* 🔍 Hotel search
-* 📍 Hotel location/details
-* ⭐ Hotel ratings and reviews
-* 🖼️ Hotel images
-* 💰 Room/booking information
-* 📅 Booking flow
-* 👤 User-friendly interface
-* 📱 Responsive iOS UI
-* 🎨 Clean and modern design
+* 🏠 Modern Home Screen
+* 🍕 Food Categories
+* 🍔 Food/Product Listing
+* 🔍 Product browsing
+* 🛒 Cart management
+* ❤️ Favorite food items
+* 📦 Food details screen
+* 📱 Responsive SwiftUI layouts
+* 🧩 Reusable SwiftUI components
+* 🎨 Clean and modern UI
+* 📐 Adaptive layouts for different iPhone sizes
 
 ## 🛠️ Technologies Used
 
 * **Swift**
-* **UIKit**
-* **Storyboard / XIB**
-* **Auto Layout**
-* **UITableView**
-* **UICollectionView**
-* **MVC Architecture**
-* **REST API / JSON** *(if applicable)*
-* **Git & GitHub**
+* **SwiftUI**
 * **Xcode**
+* **iOS**
+* **MVVM Architecture**
+* **Git & GitHub**
 
 ## 🏗️ Architecture
 
-The project follows a structured iOS architecture to keep the code organized and maintainable.
+The project follows the **MVVM (Model-View-ViewModel)** architecture to keep the application code organized and maintainable.
 
 ```text
-HotelBookingApp
+FoodSwiftUI
 │
 ├── Models
+│   └── Food Models
+│
 ├── Views
-├── ViewControllers
-├── Cells
-├── Services
-├── Resources
+│   ├── Home
+│   ├── Food Details
+│   ├── Categories
+│   └── Cart
+│
+├── ViewModels
+│   └── Food ViewModels
+│
+├── Components
+│   └── Reusable SwiftUI Components
+│
 └── Assets
+    └── Images & App Assets
 ```
 
 ## 🚀 Getting Started
@@ -52,56 +57,54 @@ HotelBookingApp
 
 * macOS
 * Xcode
-* iOS Simulator or physical iPhone
-* Swift
+* iOS 15+ recommended
+* Swift 5+
 
 ### Installation
 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/anilyadavjnt/HotelBookingApp-iOS.git
+git clone https://github.com/anilyadavjnt/FoodSwiftUI.git
 ```
 
 2. Open the project in Xcode.
 
-3. Select an iOS Simulator or connected iPhone.
+3. Select an iPhone Simulator or connected iPhone.
 
 4. Build and run the application.
 
 ## 📸 Screenshots
 
-Add your application screenshots here:
+Add screenshots of the application here:
 
 ```text
 Home Screen
-Hotel Listing
-Hotel Details
-Booking Screen
+Food Details
+Categories
+Cart
 ```
 
-## 🎯 What I Learned
+## 🎯 Learning Goals
 
-While developing this project, I worked on:
+This project was created to practice and improve:
 
-* Building iOS interfaces using UIKit
-* Designing reusable UI components
-* Working with UITableView and UICollectionView
-* Auto Layout and responsive UI
-* Navigation between screens
-* Managing application data
-* Structuring an iOS application
-* Debugging and improving UI issues
-* Using Git and GitHub for version control
+* SwiftUI UI development
+* Reusable components
+* State management
+* Navigation
+* MVVM architecture
+* Responsive layouts
+* iOS application development
 
-## 👨‍💻 Developer
+## 👨‍💻 Author
 
 **Anil Kumar Yadav**
 
-iOS Developer | Swift | UIKit | REST API | Firebase | MVVM
+iOS Developer | Swift | UIKit | SwiftUI | Firebase | REST APIs | MVVM
 
-* LinkedIn: https://linkedin.com/in/anilyadavjnt
 * GitHub: https://github.com/anilyadavjnt
+* LinkedIn: https://linkedin.com/in/anilyadavjnt
 
 ## ⭐ Support
 
